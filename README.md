@@ -28,7 +28,7 @@ This project is Text Detection on iOS using [Vision](https://developer.apple.com
 
 #### Add permission in info.plist for device's camera access
 
-![prerequest_001_plist](/Users/canapio/Project/machine%20learning/MoT%20Labs/github_project/ml-ios-projects/PoseEstimation-CoreML/resource/prerequest_001_plist.png)
+![prerequest_001_plist](resource/prerequest_001_plist.png)
 
 ### 2. Dependencies
 
